@@ -4,7 +4,7 @@ layout: single
 permalink: /about/
 
 # Includes author profile in sidebar
-author: First M. Last
+author: Lindsey Monito
 author_profile: true
 
 classes: wide
@@ -18,7 +18,9 @@ excerpt: I am a gopher tortoise working as a geoscientist at the University of F
 ---
 * PhD, University of Florida
   * Thesis: <i>"Investigating the interactions between geological processes and environmental change: A study of rock formation, erosion, and landscape evolution"</i>
-* BSc, Augustana College, <i>Geology</i>
+* MSc, Oregon State Univeristy, <i>Geology</i>
+  * Thesis: <i> "A Paleomagnetic and Environmental Magnetic Record from the Eastern South Pacific Sector of the Southern Ocean (0-1.7 Ma): IODP Site U1543"
+* BSc, James Madison University, <i>Geology</i>
 
 <b>Contact: <a href="mailto:email@example.com">gopher@example.com</a></b> 
 
